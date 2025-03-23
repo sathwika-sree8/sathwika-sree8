@@ -2,7 +2,7 @@
 <h3 align="center">2nd year EE student | Passionate about machine learning and computer vision</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maannssi&label=Profile%20views&color=0e75b6&style=flat" alt="maannssi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathwika-sree8&label=Profile%20views&color=0e75b6&style=flat" alt="sathwika-sree8" /> </p>
   
 - 🌱 I’m currently learning **TensorFlow and deep learning techniques**.
 
