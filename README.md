@@ -1,43 +1,70 @@
-# Welcome to My GitHub Profile! 👋
+<h1 align="center">Hi 👋, I'm Sathwika</h1>
+<h3 align="center">2nd year EE student | Passionate about machine learning and computer vision</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69220037/203141922-dc941a18-63f5-4c8a-9013-86ce406f471d.gif">
 
-Hi there! I'm **Sathwika**, a passionate **Electrical Engineering** student with a deep interest in **Machine Learning**, **Computer Vision**, **Web Development**, and **Data Structures & Algorithms (DSA)**. I'm excited to explore and work on projects that merge technology with real-world applications, particularly in **sustainable energy**, **AI**, and **IoT**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maannssi&label=Profile%20views&color=0e75b6&style=flat" alt="maannssi" /> </p>
+  
+- 🌱 I’m currently learning **TensorFlow and deep learning techniques**.
 
-## 🚀 Tech Stack
+- 💬 Ask me about **data science, computer vision, and full-stack development**.
 
-### 🧑‍💻 Programming & Core Concepts
+- 📫 How to reach me: **sathwika@nitdelhi.ac.in**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sathwika/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwika" height="30" width="40" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/e0ab72e8-dccd-4bdb-a45c-2c6ab14a4b55" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Coding_Ninjas_Logo.svg" alt="Coding Ninjas" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/sathwika_sree/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/LeetCode_logo_2021.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
 </p>
 
-### 🖥️ Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maannssi&show_icons=true&locale=en&layout=compact" alt="maannssi" /></p>
 
-## 🎓 Education
-- **B.Tech in Electrical Engineering** - NIT Delhi (Expected: 2026)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maannssi&show_icons=true&locale=en" alt="maannssi" /></p>
 
-## 💬 Let's Connect!
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sathwika)
-- Email: sathwikasree18@gmail.com
-
-Feel free to explore my repositories and get in touch for collaborations or if you have any questions! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maannssi&" alt="maannssi" /></p>
