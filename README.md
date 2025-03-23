@@ -15,12 +15,7 @@
   <a href="https://www.linkedin.com/in/sathwika/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathwika" height="30" width="40" />
   </a>
-  <a href="https://www.naukri.com/code360/profile/e0ab72e8-dccd-4bdb-a45c-2c6ab14a4b55" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Coding_Ninjas_Logo.svg" alt="Coding Ninjas" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/sathwika_sree/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/75/LeetCode_logo_2021.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
