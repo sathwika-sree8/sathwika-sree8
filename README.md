@@ -6,9 +6,9 @@
   
 - 🌱 I’m currently learning **TensorFlow and deep learning techniques**.
 
-- 💬 Ask me about **data science, computer vision, and full-stack development**.
+- 💬 Ask me about **Data science, computer vision, and full-stack development**.
 
-- 📫 How to reach me: **sathwika@nitdelhi.ac.in**
+- 📫 How to reach me: **231230040@nitdelhi.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,9 +46,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -63,8 +60,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maannssi&show_icons=true&locale=en&layout=compact" alt="maannssi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathwika-sree8&show_icons=true&locale=en&layout=compact" alt="sathwika-sree8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maannssi&show_icons=true&locale=en" alt="maannssi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathwika-sree8&show_icons=true&locale=en" alt="sathwika-sree8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maannssi&" alt="maannssi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathwika-sree8&" alt="sathwika-sree8" /></p>
